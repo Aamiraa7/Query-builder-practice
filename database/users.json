@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Shaam Khan",
+    "email": "ali.khan@example.com",
+    "age": 38,
+    "city": "New Lahore",
+    "password": "ShaamLahore@28"
+  },
+  {
+    "name": "Sara Ahmed",
+    "email": "sara.ahmed@example.com",
+    "age": 32,
+    "city": "Karachi",
+    "password": "saraKarachi@32"
+  },
+  {
+    "name": "Bilal Hussain",
+    "email": "bilal.hussain@example.com",
+    "age": 24,
+    "city": "Islamabad",
+    "password": "bilalIslamabad@24"
+  },
+  {
+    "name": "Ayesha Malik",
+    "email": "ayesha.malik@example.com",
+    "age": 29,
+    "city": "Lahore",
+    "password": "AyeshaLhr@29"
+  },
+  {
+    "name": "Usman Tariq",
+    "email": "usman.tariq@example.com",
+    "age": 41,
+    "city": "Peshawar",
+    "password": "UsmanPesh@41"
+  },
+  {
+    "name": "Hina Farooq",
+    "email": "hina.farooq@example.com",
+    "age": 27,
+    "city": "Faisalabad",
+    "password": "HinaFsd@27"
+  },
+  {
+    "name": "Kamran Ali",
+    "email": "kamran.ali@example.com",
+    "age": 35,
+    "city": "Multan",
+    "password": "KamranMultan@35"
+  },
+  {
+    "name": "Zara Sheikh",
+    "email": "zara.sheikh@example.com",
+    "age": 23,
+    "city": "Hyderabad",
+    "password": "ZaraHyd@23"
+  },
+  {
+    "name": "Imran Qureshi",
+    "email": "imran.qureshi@example.com",
+    "age": 45,
+    "city": "Rawalpindi",
+    "password": "ImranRwp@45"
+  },
+  {
+    "name": "Nadia Khan",
+    "email": "nadia.khan@example.com",
+    "age": 31,
+    "city": "Sialkot",
+    "password": "NadiaSkt@31"
+  }
+]
