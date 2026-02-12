@@ -17,6 +17,7 @@
                 <th>Age</th>
                 <th>City</th>
                 <th>View</th>
+                <th>Delete</th>
             </tr>
         </thead>
         <tbody>
@@ -29,6 +30,7 @@
                     <td>{{ $user->city }}</td>
                     <td>{{$user->password}}</td>
                     <td><a href="{{route('singleUser', $user->id)}}" class="btn btn-primary btn-sm">View</a></td>
+                    <td><a href="{{route('deleteUser', $user->id)}}" class="btn btn-danger btn-sm">Delete</a></td>
                 </tr>
             @endforeach
         </tbody>

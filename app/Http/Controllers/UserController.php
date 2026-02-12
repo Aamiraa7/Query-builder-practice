@@ -44,4 +44,12 @@ public function updateUser(){
     ]);
 }
 
+public function deleteUser(string $id){
+    $user=DB::TABLE('USERS')->where('id', $id)->delete();
+    if($user){
+    return redirect()->route('home');
+}
+
+}
+
 }
